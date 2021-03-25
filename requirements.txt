@@ -18,7 +18,7 @@ pytest-html==1.17.0
 pytest-metadata==1.7.0
 python-box==3.1.1
 python-dateutil==2.7.2
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 selenium==3.11.0
 simplejson==3.14.0
