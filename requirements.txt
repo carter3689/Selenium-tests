@@ -8,7 +8,7 @@ future==0.16.0
 idna==2.6
 more-itertools==4.1.0
 pluggy==0.6.0
-py==1.5.3
+py==1.10.0
 pyaml==17.12.1
 PyJWT==1.6.1
 pykwalify==1.6.1
