@@ -10,7 +10,7 @@ more-itertools==4.1.0
 pluggy==0.6.0
 py==1.5.3
 pyaml==17.12.1
-PyJWT==1.6.1
+PyJWT==2.4.0
 pykwalify==1.6.1
 pyswagger==0.8.37
 pytest==3.5.0
